@@ -2,7 +2,7 @@
 
 Dear Ms. Metayer,
 
-To grade the website I have created, you will need to follow these steps, as this GitHub repository is a project skeleton I coded, the content still needs to be loaded by the enduser (you 😉):
+To grade the website I have created, you will need to follow these steps, as this GitHub repository is a project skeleton I coded, the content still needs to be loaded by the enduser or admin (that's you 😉):
 
 1. **Create a GitHub Codespace:**
    - Visit GitHub and create a new Codespace using the blank template.
